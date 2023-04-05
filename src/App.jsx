@@ -1,7 +1,9 @@
+import { Tasklist } from "./Componets/taskList";
+
 function App() {
   return (
     <div>
-      <h1>Hello world</h1>
+    <Tasklist/>      
     </div>
   );
 }
