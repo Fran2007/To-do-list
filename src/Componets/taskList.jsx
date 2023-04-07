@@ -12,7 +12,7 @@ export const Tasklist = () => {
   return (
     <>
     <label>
-      Nombre:
+      Nombreeeeee:
         <input value={prev.Nameoftask}
         onChange={e => {setTask({...prev,
         Nameofprev: e.target.value}) }}/>
